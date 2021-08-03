@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-razoes
 - 👀 I’m interested in Cyber-Security, programming
-- 🌱 I’m currently learning Python3 and AngularJS
+- 🌱 I’m currently learning Python3
 - 📫 How to reach me just drop me an email at protonmail.com, user srazoes
 
 Feel free to use any of my tools, if you have any suggestion let me know
